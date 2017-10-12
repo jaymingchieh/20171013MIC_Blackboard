@@ -22,7 +22,7 @@ Bitcoin (精通比特幣)
 https://youtu.be/BHlkT6-52QI 
 
 
-2017/08/19 實作五 教學影片:
+2017/10/13 實作五 教學影片:
 hyperledgerFabric-v0.6-01-IBM Bluemix上的Fabric試用範例. https://youtu.be/GFMOXGU1Ns0
 
 hyperledgerFabric-v0.6-02-共識系統的觀念解說 (20:06) https://youtu.be/yl9Hagy2oO8
